@@ -8,7 +8,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background: linear-gradient(180deg, #b3f8b5 20%, #f8bbd0 70%);
     background-repeat: no-repeat;
-    height:100vh;
+    height:100%;
     color: #393e46;
 }
 
