@@ -1,1 +1,1 @@
-# Random-color-selector
+# Random-color-Generator
